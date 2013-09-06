@@ -1,0 +1,8 @@
+#include"list.h"
+#include<stdlib.h>
+#include<stdio.h>
+void main()
+{
+	List *l;
+	printf("%d",list_size(l));
+}
